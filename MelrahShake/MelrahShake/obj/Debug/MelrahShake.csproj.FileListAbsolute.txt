@@ -1,0 +1,7 @@
+C:\Users\viki8\source\repos\MelrahShake\MelrahShake\bin\Debug\MelrahShake.exe.config
+C:\Users\viki8\source\repos\MelrahShake\MelrahShake\bin\Debug\MelrahShake.exe
+C:\Users\viki8\source\repos\MelrahShake\MelrahShake\bin\Debug\MelrahShake.pdb
+C:\Users\viki8\source\repos\MelrahShake\MelrahShake\obj\Debug\MelrahShake.csprojAssemblyReference.cache
+C:\Users\viki8\source\repos\MelrahShake\MelrahShake\obj\Debug\MelrahShake.csproj.CoreCompileInputs.cache
+C:\Users\viki8\source\repos\MelrahShake\MelrahShake\obj\Debug\MelrahShake.exe
+C:\Users\viki8\source\repos\MelrahShake\MelrahShake\obj\Debug\MelrahShake.pdb

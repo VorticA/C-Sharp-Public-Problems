@@ -1,0 +1,7 @@
+C:\Users\viki8\source\repos\RecursiveCombination\RecursiveCombination\bin\Debug\RecursiveCombination.exe.config
+C:\Users\viki8\source\repos\RecursiveCombination\RecursiveCombination\bin\Debug\RecursiveCombination.exe
+C:\Users\viki8\source\repos\RecursiveCombination\RecursiveCombination\bin\Debug\RecursiveCombination.pdb
+C:\Users\viki8\source\repos\RecursiveCombination\RecursiveCombination\obj\Debug\RecursiveCombination.csprojAssemblyReference.cache
+C:\Users\viki8\source\repos\RecursiveCombination\RecursiveCombination\obj\Debug\RecursiveCombination.csproj.CoreCompileInputs.cache
+C:\Users\viki8\source\repos\RecursiveCombination\RecursiveCombination\obj\Debug\RecursiveCombination.exe
+C:\Users\viki8\source\repos\RecursiveCombination\RecursiveCombination\obj\Debug\RecursiveCombination.pdb

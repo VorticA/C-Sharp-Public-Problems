@@ -1,0 +1,7 @@
+C:\Users\viki8\source\repos\NestedSimulation\NestedSimulation\bin\Debug\NestedSimulation.exe.config
+C:\Users\viki8\source\repos\NestedSimulation\NestedSimulation\bin\Debug\NestedSimulation.exe
+C:\Users\viki8\source\repos\NestedSimulation\NestedSimulation\bin\Debug\NestedSimulation.pdb
+C:\Users\viki8\source\repos\NestedSimulation\NestedSimulation\obj\Debug\NestedSimulation.csprojAssemblyReference.cache
+C:\Users\viki8\source\repos\NestedSimulation\NestedSimulation\obj\Debug\NestedSimulation.csproj.CoreCompileInputs.cache
+C:\Users\viki8\source\repos\NestedSimulation\NestedSimulation\obj\Debug\NestedSimulation.exe
+C:\Users\viki8\source\repos\NestedSimulation\NestedSimulation\obj\Debug\NestedSimulation.pdb

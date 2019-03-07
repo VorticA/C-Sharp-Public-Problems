@@ -1,0 +1,7 @@
+C:\Users\viki8\source\repos\OnlyLetters\OnlyLetters\bin\Debug\OnlyLetters.exe.config
+C:\Users\viki8\source\repos\OnlyLetters\OnlyLetters\bin\Debug\OnlyLetters.exe
+C:\Users\viki8\source\repos\OnlyLetters\OnlyLetters\bin\Debug\OnlyLetters.pdb
+C:\Users\viki8\source\repos\OnlyLetters\OnlyLetters\obj\Debug\OnlyLetters.csprojAssemblyReference.cache
+C:\Users\viki8\source\repos\OnlyLetters\OnlyLetters\obj\Debug\OnlyLetters.csproj.CoreCompileInputs.cache
+C:\Users\viki8\source\repos\OnlyLetters\OnlyLetters\obj\Debug\OnlyLetters.exe
+C:\Users\viki8\source\repos\OnlyLetters\OnlyLetters\obj\Debug\OnlyLetters.pdb

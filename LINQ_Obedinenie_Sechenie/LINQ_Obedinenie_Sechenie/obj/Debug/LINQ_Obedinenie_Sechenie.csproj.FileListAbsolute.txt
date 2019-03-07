@@ -1,0 +1,7 @@
+C:\Users\viki8\source\repos\LINQ_Obedinenie_Sechenie\LINQ_Obedinenie_Sechenie\bin\Debug\LINQ_Obedinenie_Sechenie.exe.config
+C:\Users\viki8\source\repos\LINQ_Obedinenie_Sechenie\LINQ_Obedinenie_Sechenie\bin\Debug\LINQ_Obedinenie_Sechenie.exe
+C:\Users\viki8\source\repos\LINQ_Obedinenie_Sechenie\LINQ_Obedinenie_Sechenie\bin\Debug\LINQ_Obedinenie_Sechenie.pdb
+C:\Users\viki8\source\repos\LINQ_Obedinenie_Sechenie\LINQ_Obedinenie_Sechenie\obj\Debug\LINQ_Obedinenie_Sechenie.csprojAssemblyReference.cache
+C:\Users\viki8\source\repos\LINQ_Obedinenie_Sechenie\LINQ_Obedinenie_Sechenie\obj\Debug\LINQ_Obedinenie_Sechenie.csproj.CoreCompileInputs.cache
+C:\Users\viki8\source\repos\LINQ_Obedinenie_Sechenie\LINQ_Obedinenie_Sechenie\obj\Debug\LINQ_Obedinenie_Sechenie.exe
+C:\Users\viki8\source\repos\LINQ_Obedinenie_Sechenie\LINQ_Obedinenie_Sechenie\obj\Debug\LINQ_Obedinenie_Sechenie.pdb

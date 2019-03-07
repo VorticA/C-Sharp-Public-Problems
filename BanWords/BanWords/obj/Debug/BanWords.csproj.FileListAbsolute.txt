@@ -1,0 +1,7 @@
+C:\Users\viki8\source\repos\BanWords\BanWords\bin\Debug\BanWords.exe.config
+C:\Users\viki8\source\repos\BanWords\BanWords\bin\Debug\BanWords.exe
+C:\Users\viki8\source\repos\BanWords\BanWords\bin\Debug\BanWords.pdb
+C:\Users\viki8\source\repos\BanWords\BanWords\obj\Debug\BanWords.csprojAssemblyReference.cache
+C:\Users\viki8\source\repos\BanWords\BanWords\obj\Debug\BanWords.csproj.CoreCompileInputs.cache
+C:\Users\viki8\source\repos\BanWords\BanWords\obj\Debug\BanWords.exe
+C:\Users\viki8\source\repos\BanWords\BanWords\obj\Debug\BanWords.pdb

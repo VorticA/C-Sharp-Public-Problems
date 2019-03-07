@@ -1,0 +1,6 @@
+C:\Users\viki8\source\repos\BanWords\BanWords\bin\Release\BanWords.exe.config
+C:\Users\viki8\source\repos\BanWords\BanWords\bin\Release\BanWords.exe
+C:\Users\viki8\source\repos\BanWords\BanWords\bin\Release\BanWords.pdb
+C:\Users\viki8\source\repos\BanWords\BanWords\obj\Release\BanWords.csproj.CoreCompileInputs.cache
+C:\Users\viki8\source\repos\BanWords\BanWords\obj\Release\BanWords.exe
+C:\Users\viki8\source\repos\BanWords\BanWords\obj\Release\BanWords.pdb

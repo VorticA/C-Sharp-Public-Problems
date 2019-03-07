@@ -1,0 +1,7 @@
+C:\Users\viki8\source\repos\GenericSwapper\GenericSwapper\bin\Debug\GenericSwapper.exe.config
+C:\Users\viki8\source\repos\GenericSwapper\GenericSwapper\bin\Debug\GenericSwapper.exe
+C:\Users\viki8\source\repos\GenericSwapper\GenericSwapper\bin\Debug\GenericSwapper.pdb
+C:\Users\viki8\source\repos\GenericSwapper\GenericSwapper\obj\Debug\GenericSwapper.csprojAssemblyReference.cache
+C:\Users\viki8\source\repos\GenericSwapper\GenericSwapper\obj\Debug\GenericSwapper.csproj.CoreCompileInputs.cache
+C:\Users\viki8\source\repos\GenericSwapper\GenericSwapper\obj\Debug\GenericSwapper.exe
+C:\Users\viki8\source\repos\GenericSwapper\GenericSwapper\obj\Debug\GenericSwapper.pdb

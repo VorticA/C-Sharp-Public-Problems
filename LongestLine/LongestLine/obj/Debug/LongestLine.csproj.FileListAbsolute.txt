@@ -1,0 +1,7 @@
+C:\Users\viki8\source\repos\LongestLine\LongestLine\bin\Debug\LongestLine.exe.config
+C:\Users\viki8\source\repos\LongestLine\LongestLine\bin\Debug\LongestLine.exe
+C:\Users\viki8\source\repos\LongestLine\LongestLine\bin\Debug\LongestLine.pdb
+C:\Users\viki8\source\repos\LongestLine\LongestLine\obj\Debug\LongestLine.csprojAssemblyReference.cache
+C:\Users\viki8\source\repos\LongestLine\LongestLine\obj\Debug\LongestLine.csproj.CoreCompileInputs.cache
+C:\Users\viki8\source\repos\LongestLine\LongestLine\obj\Debug\LongestLine.exe
+C:\Users\viki8\source\repos\LongestLine\LongestLine\obj\Debug\LongestLine.pdb

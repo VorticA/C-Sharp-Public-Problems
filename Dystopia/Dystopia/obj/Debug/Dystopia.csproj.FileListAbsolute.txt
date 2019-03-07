@@ -1,0 +1,7 @@
+C:\Users\viki8\source\repos\Dystopia\Dystopia\bin\Debug\Dystopia.exe.config
+C:\Users\viki8\source\repos\Dystopia\Dystopia\bin\Debug\Dystopia.exe
+C:\Users\viki8\source\repos\Dystopia\Dystopia\bin\Debug\Dystopia.pdb
+C:\Users\viki8\source\repos\Dystopia\Dystopia\obj\Debug\Dystopia.csprojAssemblyReference.cache
+C:\Users\viki8\source\repos\Dystopia\Dystopia\obj\Debug\Dystopia.csproj.CoreCompileInputs.cache
+C:\Users\viki8\source\repos\Dystopia\Dystopia\obj\Debug\Dystopia.exe
+C:\Users\viki8\source\repos\Dystopia\Dystopia\obj\Debug\Dystopia.pdb

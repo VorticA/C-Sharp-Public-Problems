@@ -1,0 +1,7 @@
+C:\Users\viki8\source\repos\Drawable\Drawable\obj\Debug\Drawable.csprojAssemblyReference.cache
+C:\Users\viki8\source\repos\Drawable\Drawable\obj\Debug\Drawable.csproj.CoreCompileInputs.cache
+C:\Users\viki8\source\repos\Drawable\Drawable\bin\Debug\Drawable.exe.config
+C:\Users\viki8\source\repos\Drawable\Drawable\bin\Debug\Drawable.exe
+C:\Users\viki8\source\repos\Drawable\Drawable\bin\Debug\Drawable.pdb
+C:\Users\viki8\source\repos\Drawable\Drawable\obj\Debug\Drawable.exe
+C:\Users\viki8\source\repos\Drawable\Drawable\obj\Debug\Drawable.pdb

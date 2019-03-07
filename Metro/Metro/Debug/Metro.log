@@ -1,0 +1,3 @@
+﻿  Metro.cpp
+c:\users\viki8\source\repos\metro\metro\metro.cpp(28): warning C4715: 'IndexOf': not all control paths return a value
+  Metro.vcxproj -> C:\Users\viki8\source\repos\Metro\Debug\Metro.exe

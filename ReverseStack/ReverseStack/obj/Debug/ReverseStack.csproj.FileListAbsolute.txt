@@ -1,0 +1,6 @@
+C:\Users\viki8\source\repos\ReverseStack\ReverseStack\bin\Debug\ReverseStack.exe.config
+C:\Users\viki8\source\repos\ReverseStack\ReverseStack\bin\Debug\ReverseStack.exe
+C:\Users\viki8\source\repos\ReverseStack\ReverseStack\bin\Debug\ReverseStack.pdb
+C:\Users\viki8\source\repos\ReverseStack\ReverseStack\obj\Debug\ReverseStack.csproj.CoreCompileInputs.cache
+C:\Users\viki8\source\repos\ReverseStack\ReverseStack\obj\Debug\ReverseStack.exe
+C:\Users\viki8\source\repos\ReverseStack\ReverseStack\obj\Debug\ReverseStack.pdb

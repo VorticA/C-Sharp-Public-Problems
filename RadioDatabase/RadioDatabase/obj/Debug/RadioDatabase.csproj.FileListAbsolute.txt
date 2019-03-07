@@ -1,0 +1,7 @@
+C:\Users\viki8\source\repos\RadioDatabase\RadioDatabase\bin\Debug\RadioDatabase.exe.config
+C:\Users\viki8\source\repos\RadioDatabase\RadioDatabase\bin\Debug\RadioDatabase.exe
+C:\Users\viki8\source\repos\RadioDatabase\RadioDatabase\bin\Debug\RadioDatabase.pdb
+C:\Users\viki8\source\repos\RadioDatabase\RadioDatabase\obj\Debug\RadioDatabase.csprojAssemblyReference.cache
+C:\Users\viki8\source\repos\RadioDatabase\RadioDatabase\obj\Debug\RadioDatabase.csproj.CoreCompileInputs.cache
+C:\Users\viki8\source\repos\RadioDatabase\RadioDatabase\obj\Debug\RadioDatabase.exe
+C:\Users\viki8\source\repos\RadioDatabase\RadioDatabase\obj\Debug\RadioDatabase.pdb

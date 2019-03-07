@@ -1,0 +1,7 @@
+C:\Users\viki8\source\repos\RationalNums\RationalNums\bin\Debug\RationalNums.exe.config
+C:\Users\viki8\source\repos\RationalNums\RationalNums\bin\Debug\RationalNums.exe
+C:\Users\viki8\source\repos\RationalNums\RationalNums\bin\Debug\RationalNums.pdb
+C:\Users\viki8\source\repos\RationalNums\RationalNums\obj\Debug\RationalNums.csprojAssemblyReference.cache
+C:\Users\viki8\source\repos\RationalNums\RationalNums\obj\Debug\RationalNums.csproj.CoreCompileInputs.cache
+C:\Users\viki8\source\repos\RationalNums\RationalNums\obj\Debug\RationalNums.exe
+C:\Users\viki8\source\repos\RationalNums\RationalNums\obj\Debug\RationalNums.pdb

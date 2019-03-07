@@ -1,0 +1,7 @@
+C:\Users\viki8\source\repos\MySimpleSnake\MySimpleSnake\bin\Release\MySimpleSnake.exe.config
+C:\Users\viki8\source\repos\MySimpleSnake\MySimpleSnake\bin\Release\MySimpleSnake.exe
+C:\Users\viki8\source\repos\MySimpleSnake\MySimpleSnake\bin\Release\MySimpleSnake.pdb
+C:\Users\viki8\source\repos\MySimpleSnake\MySimpleSnake\obj\Release\MySimpleSnake.csproj.CoreCompileInputs.cache
+C:\Users\viki8\source\repos\MySimpleSnake\MySimpleSnake\obj\Release\MySimpleSnake.exe
+C:\Users\viki8\source\repos\MySimpleSnake\MySimpleSnake\obj\Release\MySimpleSnake.pdb
+C:\Users\viki8\source\repos\MySimpleSnake\MySimpleSnake\obj\Release\MySimpleSnake.csprojAssemblyReference.cache

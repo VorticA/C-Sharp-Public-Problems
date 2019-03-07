@@ -1,0 +1,7 @@
+C:\Users\viki8\source\repos\StrangeFigureRecursion\StrangeFigureRecursion\bin\Debug\StrangeFigureRecursion.exe.config
+C:\Users\viki8\source\repos\StrangeFigureRecursion\StrangeFigureRecursion\bin\Debug\StrangeFigureRecursion.exe
+C:\Users\viki8\source\repos\StrangeFigureRecursion\StrangeFigureRecursion\bin\Debug\StrangeFigureRecursion.pdb
+C:\Users\viki8\source\repos\StrangeFigureRecursion\StrangeFigureRecursion\obj\Debug\StrangeFigureRecursion.csprojAssemblyReference.cache
+C:\Users\viki8\source\repos\StrangeFigureRecursion\StrangeFigureRecursion\obj\Debug\StrangeFigureRecursion.csproj.CoreCompileInputs.cache
+C:\Users\viki8\source\repos\StrangeFigureRecursion\StrangeFigureRecursion\obj\Debug\StrangeFigureRecursion.exe
+C:\Users\viki8\source\repos\StrangeFigureRecursion\StrangeFigureRecursion\obj\Debug\StrangeFigureRecursion.pdb

@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  ConsoleApplication1.cpp
+c:\users\viki8\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(13): warning C4018: '<': signed/unsigned mismatch
+c:\users\viki8\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(62): warning C4018: '<': signed/unsigned mismatch
+  ConsoleApplication1.vcxproj -> C:\Users\viki8\source\repos\ConsoleApplication1\Debug\ConsoleApplication1.exe

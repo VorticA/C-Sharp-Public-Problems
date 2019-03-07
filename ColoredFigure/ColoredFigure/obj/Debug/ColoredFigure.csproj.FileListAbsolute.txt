@@ -1,0 +1,7 @@
+C:\Users\viki8\source\repos\ColoredFigure\ColoredFigure\bin\Debug\ColoredFigure.exe.config
+C:\Users\viki8\source\repos\ColoredFigure\ColoredFigure\bin\Debug\ColoredFigure.exe
+C:\Users\viki8\source\repos\ColoredFigure\ColoredFigure\bin\Debug\ColoredFigure.pdb
+C:\Users\viki8\source\repos\ColoredFigure\ColoredFigure\obj\Debug\ColoredFigure.csprojAssemblyReference.cache
+C:\Users\viki8\source\repos\ColoredFigure\ColoredFigure\obj\Debug\ColoredFigure.csproj.CoreCompileInputs.cache
+C:\Users\viki8\source\repos\ColoredFigure\ColoredFigure\obj\Debug\ColoredFigure.exe
+C:\Users\viki8\source\repos\ColoredFigure\ColoredFigure\obj\Debug\ColoredFigure.pdb

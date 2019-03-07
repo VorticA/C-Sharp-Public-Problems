@@ -1,0 +1,7 @@
+C:\Users\viki8\source\repos\Hideout\Hideout\bin\Debug\Hideout.exe.config
+C:\Users\viki8\source\repos\Hideout\Hideout\bin\Debug\Hideout.exe
+C:\Users\viki8\source\repos\Hideout\Hideout\bin\Debug\Hideout.pdb
+C:\Users\viki8\source\repos\Hideout\Hideout\obj\Debug\Hideout.csprojAssemblyReference.cache
+C:\Users\viki8\source\repos\Hideout\Hideout\obj\Debug\Hideout.csproj.CoreCompileInputs.cache
+C:\Users\viki8\source\repos\Hideout\Hideout\obj\Debug\Hideout.exe
+C:\Users\viki8\source\repos\Hideout\Hideout\obj\Debug\Hideout.pdb

@@ -1,0 +1,6 @@
+C:\Users\viki8\source\repos\IPerson\IPerson\bin\Debug\IPerson.exe.config
+C:\Users\viki8\source\repos\IPerson\IPerson\bin\Debug\IPerson.exe
+C:\Users\viki8\source\repos\IPerson\IPerson\bin\Debug\IPerson.pdb
+C:\Users\viki8\source\repos\IPerson\IPerson\obj\Debug\IPerson.csproj.CoreCompileInputs.cache
+C:\Users\viki8\source\repos\IPerson\IPerson\obj\Debug\IPerson.exe
+C:\Users\viki8\source\repos\IPerson\IPerson\obj\Debug\IPerson.pdb

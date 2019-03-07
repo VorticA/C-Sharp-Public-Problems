@@ -1,0 +1,7 @@
+C:\Users\viki8\source\repos\ReverseRecursion\ReverseRecursion\bin\Debug\ReverseRecursion.exe.config
+C:\Users\viki8\source\repos\ReverseRecursion\ReverseRecursion\bin\Debug\ReverseRecursion.exe
+C:\Users\viki8\source\repos\ReverseRecursion\ReverseRecursion\bin\Debug\ReverseRecursion.pdb
+C:\Users\viki8\source\repos\ReverseRecursion\ReverseRecursion\obj\Debug\ReverseRecursion.csprojAssemblyReference.cache
+C:\Users\viki8\source\repos\ReverseRecursion\ReverseRecursion\obj\Debug\ReverseRecursion.csproj.CoreCompileInputs.cache
+C:\Users\viki8\source\repos\ReverseRecursion\ReverseRecursion\obj\Debug\ReverseRecursion.exe
+C:\Users\viki8\source\repos\ReverseRecursion\ReverseRecursion\obj\Debug\ReverseRecursion.pdb

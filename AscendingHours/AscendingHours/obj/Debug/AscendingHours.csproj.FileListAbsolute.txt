@@ -1,0 +1,7 @@
+C:\Users\viki8\source\repos\AscendingHours\AscendingHours\bin\Debug\AscendingHours.exe.config
+C:\Users\viki8\source\repos\AscendingHours\AscendingHours\bin\Debug\AscendingHours.exe
+C:\Users\viki8\source\repos\AscendingHours\AscendingHours\bin\Debug\AscendingHours.pdb
+C:\Users\viki8\source\repos\AscendingHours\AscendingHours\obj\Debug\AscendingHours.csprojAssemblyReference.cache
+C:\Users\viki8\source\repos\AscendingHours\AscendingHours\obj\Debug\AscendingHours.csproj.CoreCompileInputs.cache
+C:\Users\viki8\source\repos\AscendingHours\AscendingHours\obj\Debug\AscendingHours.exe
+C:\Users\viki8\source\repos\AscendingHours\AscendingHours\obj\Debug\AscendingHours.pdb

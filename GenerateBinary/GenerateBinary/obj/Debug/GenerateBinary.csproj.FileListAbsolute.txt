@@ -1,0 +1,7 @@
+C:\Users\viki8\source\repos\GenerateBinary\GenerateBinary\bin\Debug\GenerateBinary.exe.config
+C:\Users\viki8\source\repos\GenerateBinary\GenerateBinary\bin\Debug\GenerateBinary.exe
+C:\Users\viki8\source\repos\GenerateBinary\GenerateBinary\bin\Debug\GenerateBinary.pdb
+C:\Users\viki8\source\repos\GenerateBinary\GenerateBinary\obj\Debug\GenerateBinary.csprojAssemblyReference.cache
+C:\Users\viki8\source\repos\GenerateBinary\GenerateBinary\obj\Debug\GenerateBinary.csproj.CoreCompileInputs.cache
+C:\Users\viki8\source\repos\GenerateBinary\GenerateBinary\obj\Debug\GenerateBinary.exe
+C:\Users\viki8\source\repos\GenerateBinary\GenerateBinary\obj\Debug\GenerateBinary.pdb

@@ -1,0 +1,7 @@
+C:\Users\viki8\source\repos\FirstSeriousLINQ\FirstSeriousLINQ\bin\Debug\FirstSeriousLINQ.exe.config
+C:\Users\viki8\source\repos\FirstSeriousLINQ\FirstSeriousLINQ\bin\Debug\FirstSeriousLINQ.exe
+C:\Users\viki8\source\repos\FirstSeriousLINQ\FirstSeriousLINQ\bin\Debug\FirstSeriousLINQ.pdb
+C:\Users\viki8\source\repos\FirstSeriousLINQ\FirstSeriousLINQ\obj\Debug\FirstSeriousLINQ.csprojAssemblyReference.cache
+C:\Users\viki8\source\repos\FirstSeriousLINQ\FirstSeriousLINQ\obj\Debug\FirstSeriousLINQ.csproj.CoreCompileInputs.cache
+C:\Users\viki8\source\repos\FirstSeriousLINQ\FirstSeriousLINQ\obj\Debug\FirstSeriousLINQ.exe
+C:\Users\viki8\source\repos\FirstSeriousLINQ\FirstSeriousLINQ\obj\Debug\FirstSeriousLINQ.pdb

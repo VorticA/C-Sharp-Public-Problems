@@ -1,0 +1,7 @@
+C:\Users\viki8\source\repos\OddOccurances\OddOccurances\bin\Debug\OddOccurances.exe.config
+C:\Users\viki8\source\repos\OddOccurances\OddOccurances\bin\Debug\OddOccurances.exe
+C:\Users\viki8\source\repos\OddOccurances\OddOccurances\bin\Debug\OddOccurances.pdb
+C:\Users\viki8\source\repos\OddOccurances\OddOccurances\obj\Debug\OddOccurances.csprojAssemblyReference.cache
+C:\Users\viki8\source\repos\OddOccurances\OddOccurances\obj\Debug\OddOccurances.csproj.CoreCompileInputs.cache
+C:\Users\viki8\source\repos\OddOccurances\OddOccurances\obj\Debug\OddOccurances.exe
+C:\Users\viki8\source\repos\OddOccurances\OddOccurances\obj\Debug\OddOccurances.pdb

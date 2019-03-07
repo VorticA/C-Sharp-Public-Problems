@@ -1,0 +1,7 @@
+C:\Users\viki8\source\repos\Lab\Lab\bin\Debug\Lab.exe.config
+C:\Users\viki8\source\repos\Lab\Lab\bin\Debug\Lab.exe
+C:\Users\viki8\source\repos\Lab\Lab\bin\Debug\Lab.pdb
+C:\Users\viki8\source\repos\Lab\Lab\obj\Debug\Lab.csprojAssemblyReference.cache
+C:\Users\viki8\source\repos\Lab\Lab\obj\Debug\Lab.csproj.CoreCompileInputs.cache
+C:\Users\viki8\source\repos\Lab\Lab\obj\Debug\Lab.exe
+C:\Users\viki8\source\repos\Lab\Lab\obj\Debug\Lab.pdb

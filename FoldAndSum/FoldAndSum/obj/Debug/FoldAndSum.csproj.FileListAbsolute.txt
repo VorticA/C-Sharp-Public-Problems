@@ -1,0 +1,7 @@
+C:\Users\viki8\source\repos\FoldAndSum\FoldAndSum\bin\Debug\FoldAndSum.exe.config
+C:\Users\viki8\source\repos\FoldAndSum\FoldAndSum\bin\Debug\FoldAndSum.exe
+C:\Users\viki8\source\repos\FoldAndSum\FoldAndSum\bin\Debug\FoldAndSum.pdb
+C:\Users\viki8\source\repos\FoldAndSum\FoldAndSum\obj\Debug\FoldAndSum.csprojAssemblyReference.cache
+C:\Users\viki8\source\repos\FoldAndSum\FoldAndSum\obj\Debug\FoldAndSum.csproj.CoreCompileInputs.cache
+C:\Users\viki8\source\repos\FoldAndSum\FoldAndSum\obj\Debug\FoldAndSum.exe
+C:\Users\viki8\source\repos\FoldAndSum\FoldAndSum\obj\Debug\FoldAndSum.pdb

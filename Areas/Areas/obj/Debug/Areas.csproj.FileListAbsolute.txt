@@ -1,0 +1,7 @@
+C:\Users\viki8\source\repos\Areas\Areas\bin\Debug\Areas.exe.config
+C:\Users\viki8\source\repos\Areas\Areas\bin\Debug\Areas.exe
+C:\Users\viki8\source\repos\Areas\Areas\bin\Debug\Areas.pdb
+C:\Users\viki8\source\repos\Areas\Areas\obj\Debug\Areas.csprojAssemblyReference.cache
+C:\Users\viki8\source\repos\Areas\Areas\obj\Debug\Areas.csproj.CoreCompileInputs.cache
+C:\Users\viki8\source\repos\Areas\Areas\obj\Debug\Areas.exe
+C:\Users\viki8\source\repos\Areas\Areas\obj\Debug\Areas.pdb

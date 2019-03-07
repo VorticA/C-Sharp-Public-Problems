@@ -1,0 +1,7 @@
+C:\Users\viki8\source\repos\BookStore\BookStore\bin\Debug\BookStore.exe.config
+C:\Users\viki8\source\repos\BookStore\BookStore\bin\Debug\BookStore.exe
+C:\Users\viki8\source\repos\BookStore\BookStore\bin\Debug\BookStore.pdb
+C:\Users\viki8\source\repos\BookStore\BookStore\obj\Debug\BookStore.csprojAssemblyReference.cache
+C:\Users\viki8\source\repos\BookStore\BookStore\obj\Debug\BookStore.csproj.CoreCompileInputs.cache
+C:\Users\viki8\source\repos\BookStore\BookStore\obj\Debug\BookStore.exe
+C:\Users\viki8\source\repos\BookStore\BookStore\obj\Debug\BookStore.pdb

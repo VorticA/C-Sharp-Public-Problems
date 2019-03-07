@@ -1,0 +1,7 @@
+C:\Users\viki8\source\repos\ComparableList\ComparableList\bin\Debug\ComparableList.exe.config
+C:\Users\viki8\source\repos\ComparableList\ComparableList\bin\Debug\ComparableList.exe
+C:\Users\viki8\source\repos\ComparableList\ComparableList\bin\Debug\ComparableList.pdb
+C:\Users\viki8\source\repos\ComparableList\ComparableList\obj\Debug\ComparableList.csprojAssemblyReference.cache
+C:\Users\viki8\source\repos\ComparableList\ComparableList\obj\Debug\ComparableList.csproj.CoreCompileInputs.cache
+C:\Users\viki8\source\repos\ComparableList\ComparableList\obj\Debug\ComparableList.exe
+C:\Users\viki8\source\repos\ComparableList\ComparableList\obj\Debug\ComparableList.pdb

@@ -1,0 +1,7 @@
+C:\Users\viki8\source\repos\Telephony\Telephony\obj\Debug\Telephony.csprojAssemblyReference.cache
+C:\Users\viki8\source\repos\Telephony\Telephony\obj\Debug\Telephony.csproj.CoreCompileInputs.cache
+C:\Users\viki8\source\repos\Telephony\Telephony\bin\Debug\Telephony.exe.config
+C:\Users\viki8\source\repos\Telephony\Telephony\bin\Debug\Telephony.exe
+C:\Users\viki8\source\repos\Telephony\Telephony\bin\Debug\Telephony.pdb
+C:\Users\viki8\source\repos\Telephony\Telephony\obj\Debug\Telephony.exe
+C:\Users\viki8\source\repos\Telephony\Telephony\obj\Debug\Telephony.pdb
